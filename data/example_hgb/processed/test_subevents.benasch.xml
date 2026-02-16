@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='UTF8'?>
+<doc xmlns="https://dhbern.github.io/BeNASch/ns">
+  <text>
+    <token token_id="0">Ulreich</token>
+    <token token_id="1">Meichsner</token>
+    <token token_id="2">und</token>
+    <token token_id="3">Helen</token>
+    <token token_id="4">sein</token>
+    <token token_id="5">Swester</token>
+    <token token_id="6">Wenczlaben</token>
+    <token token_id="7">Sparewgleins</token>
+    <token token_id="8">hausfrau</token>
+    <token token_id="9">habent</token>
+    <token token_id="10">empfangen</token>
+    <token token_id="11">nucz</token>
+    <token token_id="12">und</token>
+    <token token_id="13">gewer</token>
+    <token token_id="14">dreyrer</token>
+    <token token_id="15">tail</token>
+    <token token_id="16">hawss</token>
+    <token token_id="17">mit</token>
+    <token token_id="18">seiner</token>
+    <token token_id="19">zugehorng</token>
+    <token token_id="20">genant</token>
+    <token token_id="21">der</token>
+    <token token_id="22">JanInn</token>
+    <token token_id="23">haws</token>
+    <token token_id="24">mitsambt</token>
+    <token token_id="25">dem</token>
+    <token token_id="26">Metkeller</token>
+    <token token_id="27">ganczes</token>
+    <token token_id="28">gelegen</token>
+    <token token_id="29">mit</token>
+    <token token_id="30">dem</token>
+    <token token_id="31">vordern</token>
+    <token token_id="32">tail</token>
+    <token token_id="33">in</token>
+    <token token_id="34">der</token>
+    <token token_id="35">Wolczeil</token>
+    <token token_id="36">nyden</token>
+    <token token_id="37">am</token>
+    <token token_id="38">egk</token>
+    <token token_id="39">und</token>
+    <token token_id="40">mit</token>
+    <token token_id="41">dem</token>
+    <token token_id="42">hindern</token>
+    <token token_id="43">tail</token>
+    <token token_id="44">in</token>
+    <token token_id="45">der</token>
+    <token token_id="46">vordern</token>
+    <token token_id="47">Schulstrass</token>
+    <token token_id="48">zenagst</token>
+    <token token_id="49">Hannsen</token>
+    <token token_id="50">Spandorffer</token>
+    <token token_id="51">des</token>
+    <token token_id="52">pedelln</token>
+    <token token_id="53">haws</token>
+    <token token_id="54">des</token>
+    <token token_id="55">ain</token>
+    <token token_id="56">tail</token>
+    <token token_id="57">von</token>
+    <token token_id="58">Irr</token>
+    <token token_id="59">Muter</token>
+    <token token_id="60">Annen</token>
+    <token token_id="61">weilent</token>
+    <token token_id="62">Steffans</token>
+    <token token_id="63">Meichsner</token>
+    <token token_id="64">hausfraun</token>
+    <token token_id="65">die</token>
+    <token token_id="66">darnach</token>
+    <token token_id="67">Hannsen</token>
+    <token token_id="68">herczogen</token>
+    <token token_id="69">auch</token>
+    <token token_id="70">hat</token>
+    <token token_id="71">elichen</token>
+    <token token_id="72">gehabt</token>
+    <token token_id="73">mit</token>
+    <token token_id="74">geschefft</token>
+    <token token_id="75">und</token>
+    <token token_id="76">ain</token>
+    <token token_id="77">tail</token>
+    <token token_id="78">von</token>
+    <token token_id="79">desselben</token>
+    <token token_id="80">herczogen</token>
+    <token token_id="81">kindern</token>
+    <token token_id="82">die</token>
+    <token token_id="83">mit</token>
+    <token token_id="84">den</token>
+    <token token_id="85">vorgnant</token>
+    <token token_id="86">Ulreichen</token>
+    <token token_id="87">und</token>
+    <token token_id="88">Helen</token>
+    <token token_id="89">und</token>
+    <token token_id="90">Ursulen</token>
+    <token token_id="91">der</token>
+    <token token_id="92">Kirch</token>
+    <token token_id="93">haimInn</token>
+    <token token_id="94">geswistreid</token>
+    <token token_id="95">sind</token>
+    <token token_id="96">gewesen</token>
+    <token token_id="97">Muterhalben</token>
+    <token token_id="98">mit</token>
+    <token token_id="99">erbschafft</token>
+    <token token_id="100">an</token>
+    <token token_id="101">sew</token>
+    <token token_id="102">komen</token>
+    <token token_id="103">ist</token>
+    <token token_id="104">und</token>
+    <token token_id="105">dieselben</token>
+    <token token_id="106">dreytail</token>
+    <token token_id="107">hauss</token>
+    <token token_id="108">den</token>
+    <token token_id="109">egnant</token>
+    <token token_id="110">Ulreichen</token>
+    <token token_id="111">Meichsner</token>
+    <token token_id="112">und</token>
+    <token token_id="113">Helen</token>
+    <token token_id="114">seiner</token>
+    <token token_id="115">Swester</token>
+    <token token_id="116">zu</token>
+    <token token_id="117">furczicht</token>
+    <token token_id="118">und</token>
+    <token token_id="119">mit</token>
+    <token token_id="120">los</token>
+    <token token_id="121">gegen</token>
+    <token token_id="122">der</token>
+    <token token_id="123">egnant</token>
+    <token token_id="124">KirchhaimInn</token>
+    <token token_id="125">Irr</token>
+    <token token_id="126">Swester</token>
+    <token token_id="127">an</token>
+    <token token_id="128">rechter</token>
+    <token token_id="129">talung</token>
+    <token token_id="130">gevallen</token>
+    <token token_id="131">sind</token>
+    <token token_id="132">mit</token>
+    <token token_id="133">allen</token>
+    <token token_id="134">den</token>
+    <token token_id="135">gemechen</token>
+    <token token_id="136">und</token>
+    <token token_id="137">gemainen</token>
+    <token token_id="138">stukchen</token>
+    <token token_id="139">die</token>
+    <token token_id="140">nach</token>
+    <token token_id="141">lautt</token>
+    <token token_id="142">der</token>
+    <token token_id="143">tailbrief</token>
+    <token token_id="144">darczu</token>
+    <token token_id="145">gehornt</token>
+    <token token_id="146">Actum</token>
+    <token token_id="147">an</token>
+    <token token_id="148">Freitag</token>
+    <token token_id="149">vor</token>
+    <token token_id="150">Oculi</token>
+    <token token_id="151">in</token>
+    <token token_id="152">der</token>
+    <token token_id="153">vasten</token>
+    <token token_id="154">Anno</token>
+    <token token_id="155">domini</token>
+    <token token_id="156">etc</token>
+    <token token_id="157">.</token>
+    <token token_id="158">lviio</token>
+    <token token_id="159">Summa</token>
+    <token token_id="160">½</token>
+    <token token_id="161">tl</token>
+    <token token_id="162">.</token>
+    <token token_id="163">xxiiii</token>
+    <token token_id="164">d</token>
+    <token token_id="165">.</token>
+    <token token_id="166">Ureich</token>
+    <token token_id="167">Meichsner</token>
+    <token token_id="168">hat</token>
+    <token token_id="169">sein</token>
+    <token token_id="170">gerchtikait</token>
+    <token token_id="171">uber</token>
+    <token token_id="172">geben</token>
+    <token token_id="173">Helen</token>
+    <token token_id="174">seiner</token>
+    <token token_id="175">swester</token>
+    <token token_id="176">folio</token>
+    <token token_id="177">219</token>
+    <token token_id="178">obtinuit</token>
+    <token token_id="179">folio</token>
+    <token token_id="180">190</token>
+  </text>
+  <spans>
+    <span id="2636" start="0" end="103" text="Ulreich Meichsner und Helen sein Swester Wenczlaben Sparewgleins hausfrau habent empfangen nucz und gewer dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist" element="mod" class="nutz" subclass="">
+      <span id="2664" start="0" end="8" text="Ulreich Meichsner und Helen sein Swester Wenczlaben Sparewgleins hausfrau" element="list" class="per" subclass="">
+        <span id="2377" start="0" end="1" text="Ulreich Meichsner" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2377_head" start="0" end="1" element="head" class="nam" text="Ulreich Meichsner" subclass=""/>
+        </span>
+        <span id="2384" start="3" end="8" text="Helen sein Swester Wenczlaben Sparewgleins hausfrau" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2391" start="3" end="3" text="Helen" element="head" class="nam" subclass=""/>
+          <span id="2398" start="4" end="5" text="sein Swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2412" start="4" end="4" text="sein" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2412_head" start="4" end="4" element="head" text="sein"/>
+            </span>
+            <span id="2405" start="5" end="5" text="Swester" element="head" class="fam" subclass=""/>
+          </span>
+          <span id="2426" start="6" end="8" text="Wenczlaben Sparewgleins hausfrau" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2440" start="6" end="7" text="Wenczlaben Sparewgleins" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2440_head" start="6" end="7" element="head" class="nam" text="Wenczlaben Sparewgleins" subclass=""/>
+            </span>
+            <span id="2433" start="8" end="8" text="hausfrau" element="head" class="fam" subclass=""/>
+          </span>
+        </span>
+      </span>
+      <span id="2447" start="14" end="103" text="dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="2454" start="14" end="15" text="dreyrer tail" element="num" class="partial" subclass="three"/>
+        <span id="2461" start="16" end="16" text="hawss" element="head" class="type" subclass=""/>
+        <span id="2468" start="17" end="19" text="mit seiner zugehorng" element="attr" class="comp" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2475" start="18" end="19" text="seiner zugehorng" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2489" start="18" end="18" text="seiner" element="reference" class="unk" numerus="unk" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2489_head" start="18" end="18" element="head" text="seiner"/>
+            </span>
+            <span id="2482" start="19" end="19" text="zugehorng" element="head" class="type" subclass=""/>
+          </span>
+        </span>
+        <span id="2496" start="20" end="23" text="genant der JanInn haws" element="attr" class="alias" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2503" start="21" end="23" text="der JanInn haws" element="mod" class="name" subclass=""/>
+        </span>
+        <span id="2510" start="24" end="26" text="mitsambt dem Metkeller" element="attr" class="comp" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2517" start="25" end="26" text="dem Metkeller" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2524" start="26" end="26" text="Metkeller" element="head" class="type" subclass=""/>
+          </span>
+        </span>
+        <span id="2531" start="27" end="53" text="ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws" element="attr" class="part-of" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2538" start="27" end="53" text="ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2545" start="27" end="27" text="ganczes" element="head" class="num" subclass="whole"/>
+            <span id="2552" start="28" end="53" text="gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws" element="attr" class="topo" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2559" start="34" end="35" text="der Wolczeil" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2566" start="35" end="35" text="Wolczeil" element="head" class="name" subclass=""/>
+              </span>
+              <span id="2573" start="45" end="47" text="der vordern Schulstrass" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2580" start="46" end="47" text="vordern Schulstrass" element="head" class="name" subclass=""/>
+              </span>
+              <span id="2587" start="49" end="53" text="Hannsen Spandorffer des pedelln haws" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2594" start="49" end="52" text="Hannsen Spandorffer des pedelln" element="attr" class="owner" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                  <span id="2601" start="49" end="52" text="Hannsen Spandorffer des pedelln" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                    <span id="2608" start="49" end="50" text="Hannsen Spandorffer" element="head" class="nam" subclass=""/>
+                    <span id="2615" start="51" end="52" text="des pedelln" element="appo" class="occ" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                      <span id="2622" start="52" end="52" text="pedelln" element="head" class="occ" subclass=""/>
+                    </span>
+                  </span>
+                </span>
+                <span id="2629" start="53" end="53" text="haws" element="head" class="type" subclass=""/>
+              </span>
+            </span>
+          </span>
+        </span>
+        <span id="2643" start="54" end="103" text="des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist" element="attr" class="transfer" numerus="sgl" specificity="spc" tense="past" polarity="pos" modality="ass" subclass="">
+          <span id="2678" start="55" end="56" text="ain tail" role="property.0" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2685" start="56" end="56" text="tail" element="head" class="partial" subclass="one"/>
+          </span>
+          <span id="2699" start="58" end="72" text="Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt" role="issuer.0" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2706" start="58" end="59" text="Irr Muter" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2720" start="58" end="58" text="Irr" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2720_head" start="58" end="58" element="head" text="Irr"/>
+              </span>
+              <span id="2713" start="59" end="59" text="Muter" element="head" class="fam" subclass=""/>
+            </span>
+            <span id="2734" start="60" end="60" text="Annen" element="head" class="nam" subclass=""/>
+            <span id="2741" start="61" end="64" text="weilent Steffans Meichsner hausfraun" element="appo" class="fam" numerus="sgl" specificity="spc" tense="past" polarity="pos" modality="ass" subclass="">
+              <span id="2755" start="62" end="63" text="Steffans Meichsner" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2755_head" start="62" end="63" element="head" class="nam" text="Steffans Meichsner" subclass=""/>
+              </span>
+              <span id="2748" start="64" end="64" text="hausfraun" element="head" class="fam" subclass=""/>
+            </span>
+            <span id="2762" start="65" end="72" text="die darnach Hannsen herczogen auch hat elichen gehabt" element="attr" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2804" start="67" end="68" text="Hannsen herczogen" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2804_head" start="67" end="68" element="head" class="nam" text="Hannsen herczogen" subclass=""/>
+              </span>
+              <span id="2839" start="71" end="71" text="elichen" element="trigger" class="" tense="pres" polarity="pos" modality="ass" subclass=""/>
+            </span>
+          </span>
+          <span id="2769" start="73" end="74" text="mit geschefft" role="purchase.0" element="mod" class="purchase" subclass=""/>
+          <span id="2776" start="76" end="77" text="ain tail" role="property.1" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2776_head" start="76" end="77" element="head" class="type" text="ain tail" subclass=""/>
+          </span>
+          <span id="2783" start="79" end="96" text="desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen" role="issuer.1" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2790" start="79" end="80" text="desselben herczogen" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2797" start="80" end="80" text="herczogen" element="head" class="nam" subclass=""/>
+            </span>
+            <span id="2818" start="81" end="81" text="kindern" element="head" class="fam" subclass=""/>
+            <span id="2825" start="82" end="96" text="die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen" element="attr" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="2846" start="84" end="88" text="den vorgnant Ulreichen und Helen" element="list" class="per" subclass="">
+                <span id="2853" start="86" end="86" text="Ulreichen" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                  <span id="2853_head" start="86" end="86" element="head" class="nam" text="Ulreichen" subclass=""/>
+                </span>
+                <span id="2860" start="88" end="88" text="Helen" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                  <span id="2860_head" start="88" end="88" element="head" class="nam" text="Helen" subclass=""/>
+                </span>
+              </span>
+              <span id="2874" start="90" end="93" text="Ursulen der Kirch haimInn" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+                <span id="2874_head" start="90" end="93" element="head" class="nam" text="Ursulen der Kirch haimInn" subclass=""/>
+              </span>
+              <span id="2832" start="94" end="94" text="geswistreid" element="trigger" class="" tense="pres" polarity="pos" modality="ass" subclass=""/>
+            </span>
+          </span>
+          <span id="2881" start="98" end="99" text="mit erbschafft" role="inheritance.1" element="mod" class="inheritance" subclass=""/>
+          <span id="2657" start="101" end="101" text="sew" role="recipient" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="2657_head" start="101" end="101" element="head" text="sew"/>
+          </span>
+          <span id="2650" start="102" end="102" text="komen" element="trigger" class="" tense="pres" polarity="pos" modality="ass" subclass=""/>
+        </span>
+      </span>
+    </span>
+    <span id="2888" start="105" end="107" text="dieselben dreytail hauss" role="property" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="2902" start="106" end="106" text="dreytail" element="num" class="partial" subclass="three"/>
+      <span id="2895" start="107" end="107" text="hauss" element="head" class="type" subclass=""/>
+    </span>
+    <span id="2958" start="108" end="115" text="den egnant Ulreichen Meichsner und Helen seiner Swester" role="recipient" element="list" class="per" subclass="">
+      <span id="2916" start="110" end="111" text="Ulreichen Meichsner" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="" role="recipient">
+        <span id="2923" start="110" end="111" text="Ulreichen Meichsner" element="head" class="nam" subclass=""/>
+      </span>
+      <span id="2930" start="113" end="115" text="Helen seiner Swester" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="" role="recipient">
+        <span id="2937" start="113" end="113" text="Helen" element="head" class="nam" subclass=""/>
+        <span id="2944" start="114" end="115" text="seiner Swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2951" start="115" end="115" text="Swester" element="head" class="fam" subclass=""/>
+        </span>
+      </span>
+    </span>
+    <span id="3007" start="116" end="120" text="zu furczicht und mit los" element="mod" class="unc" subclass=""/>
+    <span id="2965" start="122" end="126" text="der egnant KirchhaimInn Irr Swester" role="issuer" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="2972" start="124" end="124" text="KirchhaimInn" element="head" class="nam" subclass=""/>
+      <span id="2979" start="125" end="126" text="Irr Swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="2993" start="125" end="125" text="Irr" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="2993_head" start="125" end="125" element="head" text="Irr"/>
+        </span>
+        <span id="2986" start="126" end="126" text="Swester" element="head" class="fam" subclass=""/>
+      </span>
+    </span>
+    <span id="3014" start="127" end="131" text="an rechter talung gevallen sind" element="trigger" class="transfer" tense="pres" polarity="pos" modality="ass" subclass=""/>
+    <span id="3000" start="132" end="145" text="mit allen den gemechen und gemainen stukchen die nach lautt der tailbrief darczu gehornt" element="mod" class="legalities" subclass=""/>
+    <span id="3021" start="148" end="158" text="Freitag vor Oculi in der vasten Anno domini etc. lviio" element="value" class="date" subclass=""/>
+    <span id="3028" start="166" end="167" text="Ureich Meichsner" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="3028_head" start="166" end="167" element="head" class="nam" text="Ureich Meichsner" subclass=""/>
+    </span>
+    <span id="3035" start="169" end="169" text="sein" element="reference" class="unk" numerus="unk" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="3035_head" start="169" end="169" element="head" text="sein"/>
+    </span>
+    <span id="3056" start="173" end="175" text="Helen seiner swester" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="3063" start="173" end="173" text="Helen" element="head" class="nam" subclass=""/>
+      <span id="3070" start="174" end="175" text="seiner swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="3084" start="174" end="174" text="seiner" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="3084_head" start="174" end="174" element="head" text="seiner"/>
+        </span>
+        <span id="3077" start="175" end="175" text="swester" element="head" class="fam" subclass=""/>
+      </span>
+    </span>
+  </spans>
+  <relations>
+    <relation id="2671" from="2657" to="2664" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="2727" from="2720" to="2664" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="2867" from="2846" to="2664" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="2419" from="2412" to="2377" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="2692" from="2678" to="2447" class="part-of" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="2909" from="2888" to="2447" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="2811" from="2790" to="2804" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="3049" from="2958" to="2846" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="3042" from="2993" to="2958" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="3091" from="3084" to="3028" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="3098" from="3028" to="3056" class="transfer" tense="pres" polarity="pos" modality="ass"/>
+  </relations>
+  <eventGroups>
+    <eventGroup event_id="1" class="family" polarity="pos" tense="pres" modality="ass" start="79" end="96" ref="2783" type="state">
+      <trigger start="81" end="81" text="kindern" ref="2818"/>
+      <event event_id="1.0">
+        <role role="family-a" ref="2783" text="desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen"/>
+        <role role="family-b" ref="2790" text="desselben herczogen"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="2" class="family" polarity="pos" tense="pres" modality="ass" start="4" end="5" ref="2398" type="state">
+      <trigger start="5" end="5" text="Swester" ref="2405"/>
+      <event event_id="2.0">
+        <role role="family-a" ref="2384" text="Helen sein Swester Wenczlaben Sparewgleins hausfrau"/>
+        <role role="family-b" ref="2412" text="sein"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="3" class="family" polarity="pos" tense="pres" modality="ass" start="6" end="8" ref="2426" type="state">
+      <trigger start="8" end="8" text="hausfrau" ref="2433"/>
+      <event event_id="3.0">
+        <role role="family-a" ref="2384" text="Helen sein Swester Wenczlaben Sparewgleins hausfrau"/>
+        <role role="family-b" ref="2440" text="Wenczlaben Sparewgleins"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="4" class="family" polarity="pos" tense="pres" modality="ass" start="58" end="59" ref="2706" type="state">
+      <trigger start="59" end="59" text="Muter" ref="2713"/>
+      <event event_id="4.0">
+        <role role="family-a" ref="2699" text="Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt"/>
+        <role role="family-b" ref="2720" text="Irr"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="5" class="family" polarity="pos" tense="past" modality="ass" start="61" end="64" ref="2741" type="state">
+      <trigger start="64" end="64" text="hausfraun" ref="2748"/>
+      <event event_id="5.0">
+        <role role="family-a" ref="2699" text="Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt"/>
+        <role role="family-b" ref="2755" text="Steffans Meichsner"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="6" class="family" polarity="pos" tense="pres" modality="ass" start="125" end="126" ref="2979" type="state">
+      <trigger start="126" end="126" text="Swester" ref="2986"/>
+      <event event_id="6.0">
+        <role role="family-a" ref="2965" text="der egnant KirchhaimInn Irr Swester"/>
+        <role role="family-b" ref="2993" text="Irr"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="7" class="family" polarity="pos" tense="pres" modality="ass" start="174" end="175" ref="3070" type="state">
+      <trigger start="175" end="175" text="swester" ref="3077"/>
+      <event event_id="7.0">
+        <role role="family-a" ref="3056" text="Helen seiner swester"/>
+        <role role="family-b" ref="3084" text="seiner"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="8" class="part_whole" polarity="pos" tense="pres" modality="ass" start="17" end="19" ref="2468" type="state">
+      <event event_id="8.0">
+        <role role="whole" ref="2447" text="dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist"/>
+        <role role="part" ref="2475" text="seiner zugehorng"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="9" class="name_variant" polarity="pos" tense="pres" modality="ass" start="20" end="23" ref="2496" type="state">
+      <event event_id="9.0">
+        <role role="entity" ref="2447" text="dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist"/>
+        <role role="name" ref="2503" text="der JanInn haws"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="10" class="part_whole" polarity="pos" tense="pres" modality="ass" start="24" end="26" ref="2510" type="state">
+      <event event_id="10.0">
+        <role role="whole" ref="2447" text="dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist"/>
+        <role role="part" ref="2517" text="dem Metkeller"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="11" class="part_whole" polarity="pos" tense="pres" modality="ass" start="27" end="53" ref="2531" type="state">
+      <event event_id="11.0">
+        <role role="part" ref="2447" text="dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist"/>
+        <role role="whole" ref="2538" text="ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="12" class="topological" polarity="pos" tense="pres" modality="ass" start="28" end="53" ref="2552" type="state">
+      <event event_id="12.0">
+        <role role="location-a" ref="2538" text="ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws"/>
+        <role role="location-b" ref="2559" text="der Wolczeil"/>
+        <role role="location-b" ref="2573" text="der vordern Schulstrass"/>
+        <role role="location-b" ref="2587" text="Hannsen Spandorffer des pedelln haws"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="13" class="ownership" polarity="pos" tense="pres" modality="ass" start="49" end="52" ref="2594" type="state">
+      <event event_id="13.0">
+        <role role="property" ref="2587" text="Hannsen Spandorffer des pedelln haws"/>
+        <role role="owner" ref="2601" text="Hannsen Spandorffer des pedelln"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="14" class="transfer" polarity="pos" tense="past" modality="ass" start="54" end="103" ref="2643" type="event">
+      <trigger start="102" end="102" text="komen" ref="2650"/>
+      <event event_id="14.0">
+        <role role="property" ref="2678" text="ain tail"/>
+        <role role="owner-prev" ref="2699" text="Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt"/>
+        <role role="purchase" ref="2769" text="mit geschefft"/>
+        <role role="owner-new" ref="2657" text="sew"/>
+      </event>
+      <event event_id="14.1">
+        <role role="property" ref="2776" text="ain tail"/>
+        <role role="owner-prev" ref="2783" text="desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen"/>
+        <role role="inheritance" ref="2881" text="mit erbschafft"/>
+        <role role="owner-new" ref="2657" text="sew"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="15" class="family" polarity="pos" tense="pres" modality="ass" start="65" end="72" ref="2762" type="state">
+      <trigger start="71" end="71" text="elichen" ref="2839"/>
+      <event event_id="15.0">
+        <role role="family-a" ref="2699" text="Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt"/>
+        <role role="family-b" ref="2804" text="Hannsen herczogen"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="16" class="family" polarity="pos" tense="pres" modality="ass" start="82" end="96" ref="2825" type="state">
+      <trigger start="94" end="94" text="geswistreid" ref="2832"/>
+      <event event_id="16.0">
+        <role role="family-a" ref="2783" text="desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen"/>
+        <role role="family-b" ref="2853" text="Ulreichen"/>
+        <role role="family-b" ref="2860" text="Helen"/>
+        <role role="family-b" ref="2874" text="Ursulen der Kirch haimInn"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="17" class="transfer" polarity="pos" tense="pres" modality="ass" start="105" end="131" ref="" type="event">
+      <trigger start="127" end="131" text="an rechter talung gevallen sind" ref="3014"/>
+      <event event_id="17.0">
+        <role role="property" ref="2888" text="dieselben dreytail hauss"/>
+        <role role="owner-new" ref="2916" text="Ulreichen Meichsner"/>
+        <role role="owner-new" ref="2930" text="Helen seiner Swester"/>
+        <role role="owner-prev" ref="2965" text="der egnant KirchhaimInn Irr Swester"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="18" class="part_whole" polarity="pos" tense="pres" modality="ass" type="state">
+      <event event_id="18.0">
+        <role role="part" ref="2678" text="ain tail"/>
+        <role role="whole" ref="2447" text="dreyrer tail hawss mit seiner zugehorng genant der JanInn haws mitsambt dem Metkeller ganczes gelegen mit dem vordern tail in der Wolczeil nyden am egk und mit dem hindern tail in der vordern Schulstrass zenagst Hannsen Spandorffer des pedelln haws des ain tail von Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt mit geschefft und ain tail von desselben herczogen kindern die mit den vorgnant Ulreichen und Helen und Ursulen der Kirch haimInn geswistreid sind gewesen Muterhalben mit erbschafft an sew komen ist"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="19" class="transfer" polarity="pos" tense="pres" modality="ass" type="event">
+      <event event_id="19.0">
+        <role role="owner-prev" ref="3028" text="Ureich Meichsner"/>
+        <role role="owner-new" ref="3056" text="Helen seiner swester"/>
+      </event>
+    </eventGroup>
+  </eventGroups>
+</doc>

@@ -1,0 +1,167 @@
+2026-02-13 09:49:05 INFO [iprada] ProjectServiceImpl - Created project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] ProjectServiceImpl - Granted permission [CURATOR] for user iprada on project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] ProjectServiceImpl - Granted permission [ANNOTATOR] for user iprada on project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] ProjectServiceImpl - Granted permission [MANAGER] for user iprada on project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created layer [de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token](198) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created tagset [Span labels](165) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created tagset [Relation labels](166) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created layer [custom.Span](199) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [label](246) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created layer [custom.Relation](200) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [Governor](247) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [Dependent](248) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [label](249) in project [iprada - New project](56)
+2026-02-13 09:49:05 INFO [iprada] ReindexTask - Re-indexing project [iprada - New project](56). This may take a while...
+2026-02-13 09:49:05 INFO [iprada] ReindexTask - Re-indexing project [iprada - New project](56) complete!
+2026-02-13 10:20:20 INFO [iprada] AnnotationSchemaServiceImpl - Removed feature [label](246) from project [BeNASch - Example](56)
+2026-02-13 10:20:20 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:20:20 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:21:03 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [Element](252) in project [BeNASch - Example](56)
+2026-02-13 10:21:03 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:21:03 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:21:31 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [Role](253) in project [BeNASch - Example](56)
+2026-02-13 10:21:31 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:21:31 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:21:36 INFO [iprada] AnnotationSchemaServiceImpl - Updated feature [Element](252) in project [BeNASch - Example](56)
+2026-02-13 10:21:36 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:21:36 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:22:32 INFO [iprada] AnnotationSchemaServiceImpl - Created feature [Category](254) in project [BeNASch - Example](56)
+2026-02-13 10:22:32 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:22:32 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:26:05 INFO [iprada] AnnotationSchemaServiceImpl - Updated layer [custom.Relation](200) in project [BeNASch - Example](56)
+2026-02-13 10:26:05 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:26:05 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:38:25 INFO [iprada] AnnotationSchemaServiceImpl - Created tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:38:29 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [ref](5774) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:38:46 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [appo](5775) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:38:49 INFO [iprada] AnnotationSchemaServiceImpl - Updated tag [attr](5775) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:38:53 INFO [iprada] AnnotationSchemaServiceImpl - Updated tag [appo](5775) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:38:59 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [attr](5776) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:02 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [head](5777) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:07 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [list](5778) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:10 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [num](5779) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:14 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [val](5780) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:17 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [oth](5781) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:20 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [unc](5782) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:22 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [unk](5783) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:25 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [trigger](5784) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:28 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [mod](5785) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:32 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [interaction](5786) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:39:51 INFO [iprada] AnnotationSchemaServiceImpl - Created tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 10:39:53 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 10:39:56 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 10:40:01 INFO [iprada] AnnotationSchemaServiceImpl - Created tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 10:40:03 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 10:40:07 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 10:40:10 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 10:40:14 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 10:40:52 INFO [iprada] AnnotationSchemaServiceImpl - Updated tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 10:41:07 INFO [iprada] AnnotationSchemaServiceImpl - Updated feature [Element](252) in project [BeNASch - Example](56)
+2026-02-13 10:41:07 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:41:07 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:41:11 INFO [iprada] AnnotationSchemaServiceImpl - Updated feature [Category](254) in project [BeNASch - Example](56)
+2026-02-13 10:41:11 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:41:11 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 10:41:14 INFO [iprada] AnnotationSchemaServiceImpl - Updated feature [Role](253) in project [BeNASch - Example](56)
+2026-02-13 10:41:14 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 10:41:14 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 11:01:33 INFO [iprada] TeiReader - Scanning [file:/export/repository/project/56/document/3811/source/]
+2026-02-13 11:01:33 INFO [iprada] TeiReader - Found [1] resources to be read
+2026-02-13 11:01:33 INFO [iprada] TeiReader - 0 of 1: file:/export/repository/project/56/document/3811/source/admin_001_HGB_1_002_096_007.tei
+2026-02-13 11:01:33 INFO [iprada] DocumentImportExportServiceImpl - Imported CAS with [85] tokens and [2] sentences from file [/export/repository/project/56/document/3811/source/admin_001_HGB_1_002_096_007.tei] (size: 4095 bytes)
+2026-02-13 11:01:33 INFO [iprada] DocumentServiceImpl - Imported source document [admin_001_HGB_1_002_096_007.tei](3811) to project [BeNASch - Example](56)
+2026-02-13 11:01:37 INFO [iprada] DocumentServiceImpl - Created annotation document [iprada@admin_001_HGB_1_002_096_007.tei](3809) in project [BeNASch - Example](56)
+2026-02-13 11:01:37 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 11:01:52 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 11:03:07 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 11:06:23 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [per](5787) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 11:10:00 INFO [iprada] ProjectPermissionsExporter - Exported [3] permissions for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] DocumentRepositoryExporter - Exported [0] document repositories for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] KnowledgeBaseExporter - Exported [0] knowledge bases for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] CurationWorkflowExporter - Exported curation workflow settings for project [BeNASch - Example](56)
+2026-02-13 11:10:00 INFO [iprada] LayerExporter - Exported [3] layers for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] TagSetExporter - Exported [5] tagsets for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] SourceDocumentExporter - Exported content for source document 1/1: [admin_001_HGB_1_002_096_007.tei](3811) in [BeNASch - Example](56)
+2026-02-13 11:10:00 INFO [iprada] LoggedEventExporter - Exported [40] logged events for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] DefaultProjectPreferencesExporter - Exported [0] default preferences for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] UserProjectPreferencesExporter - Exported [4] user preferences for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] GazeteerExporter - Exported [0] gazeteers for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] ProjectInviteExporter - Exported [0] invites for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] WorkloadManagerExporter - Exported workload manager for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] RecommenderExporter - Exported [0] recommenders for project [BeNASch - Example]
+2026-02-13 11:10:00 INFO [iprada] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 11:10:00 INFO [iprada] AnnotationDocumentExporter - Exported annotation document content for user [iprada] for source document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 11:10:00 INFO [iprada] LearningRecordExporter - Exported [0] learning records for project [BeNASch - Example]
+2026-02-13 12:18:33 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 12:37:14 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [nam](5802) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 12:37:37 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [fam](5803) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 12:37:40 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [fam_wife](5804) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 12:38:14 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 12:38:52 INFO [iprada] AnnotationSchemaServiceImpl - Updated feature [Element](252) in project [BeNASch - Example](56)
+2026-02-13 12:38:52 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 12:38:52 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 12:38:55 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 12:39:59 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [per.nam](5805) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 12:40:46 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [fam_father](5806) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 12:41:02 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [pro](5807) in tagset [Element labels](169) in project [BeNASch - Example](56)
+2026-02-13 12:41:05 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 12:41:15 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [coref](5808) in tagset [Relation labels](166) in project [BeNASch - Example](56)
+2026-02-13 13:10:08 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [INITIAL_CAS] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:10:08 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:10:43 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [property_purchase](5809) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:11:01 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [loc_fac](5810) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:11:10 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [money](5811) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:11:29 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:11:38 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:11:48 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:11:52 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:11:58 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [seller](5812) in tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 13:12:15 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [consente](5813) in tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 13:12:17 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [consenter](5814) in tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 13:12:23 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [buyer](5815) in tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 13:12:54 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [property](5816) in tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 13:12:59 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [price](5817) in tagset [Role labels](171) in project [BeNASch - Example](56)
+2026-02-13 13:13:08 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:13:13 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:13:17 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:23:33 INFO [iprada] AnnotationSchemaServiceImpl - Updated layer [custom.Span](199) in project [BeNASch - Example](56)
+2026-02-13 13:23:33 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56). This may take a while...
+2026-02-13 13:23:33 INFO [iprada] ReindexTask - Re-indexing project [BeNASch - Example](56) complete!
+2026-02-13 13:23:41 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:25:11 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [occ](5818) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:25:29 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [ty](5819) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:25:32 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [type](5820) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:25:49 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [comp](5821) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:26:18 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [topo](5822) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:29:21 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [owner](5823) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:30:13 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [alias](5824) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:31:50 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [dues](5825) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:32:01 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [cause](5826) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:32:06 INFO [iprada] AnnotationSchemaServiceImpl - Created tag [org](5827) in tagset [Category labels](170) in project [BeNASch - Example](56)
+2026-02-13 13:34:52 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:34:58 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:35:03 INFO [iprada] AnnotationSchemaServiceImpl - Upgraded CAS of user [iprada] for document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:37:01 INFO [iprada] ProjectPermissionsExporter - Exported [3] permissions for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] DocumentRepositoryExporter - Exported [0] document repositories for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] KnowledgeBaseExporter - Exported [0] knowledge bases for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] CurationWorkflowExporter - Exported curation workflow settings for project [BeNASch - Example](56)
+2026-02-13 13:37:01 INFO [iprada] LayerExporter - Exported [3] layers for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] TagSetExporter - Exported [5] tagsets for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] SourceDocumentExporter - Exported content for source document 1/1: [admin_001_HGB_1_002_096_007.tei](3811) in [BeNASch - Example](56)
+2026-02-13 13:37:01 INFO [iprada] LoggedEventExporter - Exported [325] logged events for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] DefaultProjectPreferencesExporter - Exported [0] default preferences for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] UserProjectPreferencesExporter - Exported [4] user preferences for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] GazeteerExporter - Exported [0] gazeteers for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] ProjectInviteExporter - Exported [0] invites for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] WorkloadManagerExporter - Exported workload manager for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] RecommenderExporter - Exported [0] recommenders for project [BeNASch - Example]
+2026-02-13 13:37:01 INFO [iprada] AnnotationDocumentExporter - Exported annotation document content for user [INITIAL_CAS] for source document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:37:01 INFO [iprada] AnnotationDocumentExporter - Exported annotation document content for user [iprada] for source document [admin_001_HGB_1_002_096_007.tei](3811) in project [BeNASch - Example](56)
+2026-02-13 13:37:01 INFO [iprada] LearningRecordExporter - Exported [0] learning records for project [BeNASch - Example]
+2026-02-13 14:21:46 INFO [iprada] ProjectPermissionsExporter - Exported [3] permissions for project [BeNASch - Example]
+2026-02-13 14:21:46 INFO [iprada] DocumentRepositoryExporter - Exported [0] document repositories for project [BeNASch - Example]
+2026-02-13 14:21:46 INFO [iprada] KnowledgeBaseExporter - Exported [0] knowledge bases for project [BeNASch - Example]
+2026-02-13 14:21:46 INFO [iprada] CurationWorkflowExporter - Exported curation workflow settings for project [BeNASch - Example](56)
+2026-02-13 14:21:46 INFO [iprada] LayerExporter - Exported [3] layers for project [BeNASch - Example]
+2026-02-13 14:21:46 INFO [iprada] TagSetExporter - Exported [5] tagsets for project [BeNASch - Example]
+2026-02-13 14:21:46 INFO [iprada] SourceDocumentExporter - Exported content for source document 1/1: [admin_001_HGB_1_002_096_007.tei](3811) in [BeNASch - Example](56)

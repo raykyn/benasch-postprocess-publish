@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>HGB 1 2/96 S. [7]</title>
+        <editor>Ismail Prada Ziegler</editor>
+        <sponsor>Departement of History, Faculty of Philosophy and History, University of Basel</sponsor>
+        <sponsor>Digital Humanities, Walter-Benjamin-Kolleg, University of Bern</sponsor>
+        <funder>Schweizerischer Nationalfonds (SNF)</funder>
+        <principal>Lucas Burkart</principal>
+        <principal>Tobias Hodel</principal>
+        <respStmt>
+          <name>Ismail Prada Ziegler</name>
+          <resp>annotation, postprocessing</resp>
+        </respStmt>
+        <respStmt>
+          <name>Benjamin Hitz</name>
+          <resp>transcription, annotation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Katrin Fuchs</name>
+          <resp>transcription, annotation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aline Vonwiller</name>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jonas Aeby</name>
+          <resp>automated transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>This file was created as part of the Economies of Space project by a team from the University of Basel and the University of Berne. Published in August of 2025.</p>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Manually annotated Ground Truth from the Historical Land Records of Basel.</title>
+        <respStmt>
+          <name>Ismail Prada Ziegler</name>
+          <resp>compiler</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listBibl>
+          <desc>This document is a digitalization of a register card which holds an excerpt from an original source document. The register-item element holds information pertaining to the register card while the source element names the original archive or corpus the excerpt was taken from. The date given under profileDesc/creation/date refers to the creation of the original document, the exact date of creation of the register item is unknown.</desc>
+          <bibl type="register-item">
+            <title>Aeschenvorstadt 18</title>
+            <idno>HGB 1 2/96</idno>
+            <ref>https://ld.bs.ch/ais/Record/1432897</ref>
+          </bibl>
+          <bibl type="source">
+            <title>Gerichtsarchiv</title>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Manually annotated text for machine training and evaluation purposes in the project Economies of Space.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy xml:id="lv95">
+          <desc>Coordinates in CH1903+ / LV95 (EPSG:2056)</desc>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1446">1446</date>
+      </creation>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+      <settingDesc>
+        <place>
+          <location>
+            <geo decls="#lv95">2611605.8615032975 1266934.0265282847</geo>
+            <desc>Location of the main property the document is about.</desc>
+          </location>
+        </place>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab><persName>Hans von Pltingen</persName>
+mit willen <persName>Frantzen Eltingers</persName>
+zins vatter , ouch <persName>Angnes</persName> desselben <persName>Frantzen</persName>
+Ewirtin , verkauft an <persName>Peter Schützen</persName>
+den Rebman , daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze <placeName>Eschemerthor</placeName>
+, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . <persName>Clewin Gottschis</persName>
+hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye <measure type="currency">11 becher Bonen</measure>
+, um <measure type="currency">163 fl .</measure></ab>
+    </body>
+  </text>
+</TEI>

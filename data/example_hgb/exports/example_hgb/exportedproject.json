@@ -1,0 +1,440 @@
+{
+  "name" : "BeNASch - Example",
+  "slug" : "iprada-1",
+  "description" : null,
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "admin_001_HGB_1_002_096_007.tei",
+    "format" : "dkpro-core-tei",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1770980493631,
+    "updated" : 1770980497486
+  } ],
+  "annotation_documents" : [ {
+    "name" : "admin_001_HGB_1_002_096_007.tei",
+    "user" : "iprada",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1770989552147,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1770980497465,
+    "updated" : 1770989552148
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "iprada"
+  }, {
+    "level" : "CURATOR",
+    "user" : "iprada"
+  }, {
+    "level" : "USER",
+    "user" : "iprada"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Category labels",
+    "description" : null,
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "alias",
+      "tag_description" : null
+    }, {
+      "tag_name" : "cause",
+      "tag_description" : null
+    }, {
+      "tag_name" : "comp",
+      "tag_description" : null
+    }, {
+      "tag_name" : "dues",
+      "tag_description" : null
+    }, {
+      "tag_name" : "fam",
+      "tag_description" : null
+    }, {
+      "tag_name" : "fam_father",
+      "tag_description" : null
+    }, {
+      "tag_name" : "fam_wife",
+      "tag_description" : null
+    }, {
+      "tag_name" : "loc_fac",
+      "tag_description" : null
+    }, {
+      "tag_name" : "money",
+      "tag_description" : null
+    }, {
+      "tag_name" : "nam",
+      "tag_description" : null
+    }, {
+      "tag_name" : "occ",
+      "tag_description" : null
+    }, {
+      "tag_name" : "org",
+      "tag_description" : null
+    }, {
+      "tag_name" : "owner",
+      "tag_description" : null
+    }, {
+      "tag_name" : "per",
+      "tag_description" : null
+    }, {
+      "tag_name" : "per.nam",
+      "tag_description" : null
+    }, {
+      "tag_name" : "property_purchase",
+      "tag_description" : null
+    }, {
+      "tag_name" : "topo",
+      "tag_description" : null
+    }, {
+      "tag_name" : "ty",
+      "tag_description" : null
+    }, {
+      "tag_name" : "type",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Element labels",
+    "description" : null,
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "appo",
+      "tag_description" : null
+    }, {
+      "tag_name" : "attr",
+      "tag_description" : null
+    }, {
+      "tag_name" : "head",
+      "tag_description" : null
+    }, {
+      "tag_name" : "interaction",
+      "tag_description" : null
+    }, {
+      "tag_name" : "list",
+      "tag_description" : null
+    }, {
+      "tag_name" : "mod",
+      "tag_description" : null
+    }, {
+      "tag_name" : "num",
+      "tag_description" : null
+    }, {
+      "tag_name" : "oth",
+      "tag_description" : null
+    }, {
+      "tag_name" : "pro",
+      "tag_description" : null
+    }, {
+      "tag_name" : "ref",
+      "tag_description" : null
+    }, {
+      "tag_name" : "trigger",
+      "tag_description" : null
+    }, {
+      "tag_name" : "unc",
+      "tag_description" : null
+    }, {
+      "tag_name" : "unk",
+      "tag_description" : null
+    }, {
+      "tag_name" : "val",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "Relation labels",
+    "description" : "Relation labels",
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "coref",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Role labels",
+    "description" : null,
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "buyer",
+      "tag_description" : null
+    }, {
+      "tag_name" : "consente",
+      "tag_description" : null
+    }, {
+      "tag_name" : "consenter",
+      "tag_description" : null
+    }, {
+      "tag_name" : "price",
+      "tag_description" : null
+    }, {
+      "tag_name" : "property",
+      "tag_description" : null
+    }, {
+      "tag_name" : "seller",
+      "tag_description" : null
+    } ],
+    "create_tag" : true
+  }, {
+    "name" : "Span labels",
+    "description" : "Span labels",
+    "language" : "en",
+    "tags" : [ ],
+    "create_tag" : true
+  } ],
+  "layers" : [ {
+    "name" : "custom.Relation",
+    "features" : [ {
+      "name" : "label",
+      "tag_set" : {
+        "name" : "Relation labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Label",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Relation label",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"AUTO\",\"collapsedRows\":1,\"expandedRows\":1,\"retainSuggestionInfo\":false,\"rolesSeeingSuggestionInfo\":[\"CURATOR\"]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Governor",
+      "tag_set" : null,
+      "uiName" : "Source",
+      "type" : "rel-source:custom.Span",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Dependent",
+      "tag_set" : null,
+      "uiName" : "Target",
+      "type" : "rel-target:custom.Span",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Relation",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "custom.Span"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]},\"renderArcs\":true,\"renderMode\":\"ALWAYS\"}"
+  }, {
+    "name" : "custom.Span",
+    "features" : [ {
+      "name" : "Element",
+      "tag_set" : {
+        "name" : "Element labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Element",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : true,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"AUTO\",\"collapsedRows\":1,\"expandedRows\":1,\"retainSuggestionInfo\":false,\"rolesSeeingSuggestionInfo\":[\"CURATOR\"]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Category",
+      "tag_set" : {
+        "name" : "Category labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Category",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"AUTO\",\"collapsedRows\":1,\"expandedRows\":1,\"retainSuggestionInfo\":false,\"rolesSeeingSuggestionInfo\":[\"CURATOR\"]}",
+      "curatable" : true,
+      "rank" : 1
+    }, {
+      "name" : "Role",
+      "tag_set" : {
+        "name" : "Role labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Role",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"AUTO\",\"collapsedRows\":1,\"expandedRows\":1,\"retainSuggestionInfo\":false,\"rolesSeeingSuggestionInfo\":[\"CURATOR\"]}",
+      "curatable" : true,
+      "rank" : 2
+    } ],
+    "uiName" : "Span",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : true,
+  "script_direction" : "LTR",
+  "created" : 1770976145037,
+  "updated" : 1770980501895,
+  "anonymous_curation" : false,
+  "application_name" : "INCEpTION",
+  "application_version" : "38.6",
+  "default-preferences" : [ ],
+  "knowledge_bases" : [ ],
+  "project_invites" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ ],
+  "learning_records" : [ ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  },
+  "user-preferences" : [ {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"198\":\"GRAY\",\"199\":\"DYNAMIC_PASTELLE\",\"200\":\"DYNAMIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[],\"hiddenFeatures\":[],\"hiddenFeatureValues\":{}}",
+    "user" : "iprada"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "iprada"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":false}",
+    "user" : "iprada"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "iprada"
+  } ]
+}

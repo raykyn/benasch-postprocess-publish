@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF8'?>
+<doc xmlns="https://dhbern.github.io/BeNASch/ns">
+  <text>
+    <token token_id="0">Hans</token>
+    <token token_id="1">von</token>
+    <token token_id="2">Pltingen</token>
+    <token token_id="3">mit</token>
+    <token token_id="4">willen</token>
+    <token token_id="5">Frantzen</token>
+    <token token_id="6">Eltingers</token>
+    <token token_id="7">zins</token>
+    <token token_id="8">vatter</token>
+    <token token_id="9">,</token>
+    <token token_id="10">ouch</token>
+    <token token_id="11">Angnes</token>
+    <token token_id="12">desselben</token>
+    <token token_id="13">Frantzen</token>
+    <token token_id="14">Ewirtin</token>
+    <token token_id="15">,</token>
+    <token token_id="16">verkauft</token>
+    <token token_id="17">an</token>
+    <token token_id="18">Peter</token>
+    <token token_id="19">Schützen</token>
+    <token token_id="20">den</token>
+    <token token_id="21">Rebman</token>
+    <token token_id="22">,</token>
+    <token token_id="23">daz</token>
+    <token token_id="24">Hus</token>
+    <token token_id="25">&amp;</token>
+    <token token_id="26">Hofstatt</token>
+    <token token_id="27">mit</token>
+    <token token_id="28">dem</token>
+    <token token_id="29">garten</token>
+    <token token_id="30">derhinder</token>
+    <token token_id="31">,</token>
+    <token token_id="32">als</token>
+    <token token_id="33">es</token>
+    <token token_id="34">gelegen</token>
+    <token token_id="35">ist</token>
+    <token token_id="36">in</token>
+    <token token_id="37">der</token>
+    <token token_id="38">vorstatt</token>
+    <token token_id="39">ze</token>
+    <token token_id="40">Eschemerthor</token>
+    <token token_id="41">,</token>
+    <token token_id="42">ư</token>
+    <token token_id="43">genant</token>
+    <token token_id="44">zem</token>
+    <token token_id="45">Haffen</token>
+    <token token_id="46">,</token>
+    <token token_id="47">nebent</token>
+    <token token_id="48">der</token>
+    <token token_id="49">Brennerin</token>
+    <token token_id="50">hus</token>
+    <token token_id="51">genant</token>
+    <token token_id="52">zem</token>
+    <token token_id="53">trachen</token>
+    <token token_id="54">ze</token>
+    <token token_id="55">einer</token>
+    <token token_id="56">siten</token>
+    <token token_id="57">,</token>
+    <token token_id="58">u</token>
+    <token token_id="59">.</token>
+    <token token_id="60">Clewin</token>
+    <token token_id="61">Gottschis</token>
+    <token token_id="62">hus</token>
+    <token token_id="63">den</token>
+    <token token_id="64">man</token>
+    <token token_id="65">sprichet</token>
+    <token token_id="66">zem</token>
+    <token token_id="67">Widershom</token>
+    <token token_id="68">zer</token>
+    <token token_id="69">andern</token>
+    <token token_id="70">siten</token>
+    <token token_id="71">,</token>
+    <token token_id="72">zinset</token>
+    <token token_id="73">voneig</token>
+    <token token_id="74">.</token>
+    <token token_id="75">der</token>
+    <token token_id="76">Thumprobstye</token>
+    <token token_id="77">11</token>
+    <token token_id="78">becher</token>
+    <token token_id="79">Bonen</token>
+    <token token_id="80">,</token>
+    <token token_id="81">um</token>
+    <token token_id="82">163</token>
+    <token token_id="83">fl</token>
+    <token token_id="84">.</token>
+  </text>
+  <spans>
+    <span id="1134" start="0" end="2" text="Hans von Pltingen" role="seller" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="1134_head" start="0" end="2" element="head" class="nam" text="Hans von Pltingen" subclass=""/>
+    </span>
+    <span id="1176" start="5" end="8" text="Frantzen Eltingers&#10;zins vatter" role="consenter" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="1183" start="5" end="6" text="Frantzen Eltingers" element="head" class="name" subclass=""/>
+      <span id="1190" start="7" end="8" text="zins vatter" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="father">
+        <span id="1204" start="7" end="7" text="zins" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1204_head" start="7" end="7" element="head" text="zins"/>
+        </span>
+        <span id="1197" start="8" end="8" text="vatter" element="head" class="fam" subclass="father"/>
+      </span>
+    </span>
+    <span id="1141" start="11" end="14" text="Angnes desselben Frantzen&#10;Ewirtin" role="seller" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="1218" start="11" end="11" text="Angnes" element="head" class="name" subclass=""/>
+      <span id="1225" start="12" end="14" text="desselben Frantzen&#10;Ewirtin" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="wife">
+        <span id="1239" start="12" end="13" text="desselben Frantzen" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1246" start="13" end="13" text="Frantzen" element="head" class="name" subclass=""/>
+        </span>
+        <span id="1232" start="14" end="14" text="Ewirtin" element="head" class="fam" subclass="wife"/>
+      </span>
+    </span>
+    <span id="1155" start="16" end="16" text="verkauft" element="trigger" class="property" tense="pres" polarity="pos" modality="ass" subclass="purchase"/>
+    <span id="1148" start="18" end="21" text="Peter Schützen&#10;den Rebman" role="buyer" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="1260" start="18" end="19" text="Peter Schützen" element="head" class="name" subclass=""/>
+      <span id="1267" start="20" end="21" text="den Rebman" element="appo" class="occ" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="1274" start="21" end="21" text="Rebman" element="head" class="occ" subclass=""/>
+      </span>
+    </span>
+    <span id="1162" start="23" end="79" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen" role="property" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+      <span id="1281" start="24" end="26" text="Hus &amp; Hofstatt" element="head" class="type" subclass=""/>
+      <span id="1288" start="27" end="30" text="mit dem garten derhinder" element="attr" class="comp" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="1295" start="28" end="29" text="dem garten" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1302" start="29" end="29" text="garten" element="head" class="type" subclass=""/>
+        </span>
+      </span>
+      <span id="1309" start="32" end="40" text="als es gelegen ist in der vorstatt ze Eschemerthor" element="attr" class="topo" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="1316" start="37" end="40" text="der vorstatt ze Eschemerthor" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1323" start="38" end="38" text="vorstatt" element="head" class="type" subclass=""/>
+          <span id="1330" start="39" end="40" text="ze Eschemerthor" element="attr" class="topo" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="1337" start="40" end="40" text="Eschemerthor" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="1337_head" start="40" end="40" element="head" class="type" text="Eschemerthor" subclass=""/>
+            </span>
+          </span>
+        </span>
+      </span>
+      <span id="1386" start="43" end="45" text="genant zem Haffen" element="attr" class="alias" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="1393" start="44" end="45" text="zem Haffen" element="mod" class="name" subclass=""/>
+      </span>
+      <span id="1344" start="47" end="70" text="nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten" element="attr" class="topo" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="1351" start="48" end="53" text="der Brennerin hus genant zem trachen" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1358" start="48" end="49" text="der Brennerin" element="attr" class="owner" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="1365" start="48" end="49" text="der Brennerin" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="1372" start="49" end="49" text="Brennerin" element="head" class="name" subclass=""/>
+            </span>
+          </span>
+          <span id="1379" start="50" end="50" text="hus" element="head" class="type" subclass=""/>
+          <span id="1400" start="51" end="53" text="genant zem trachen" element="attr" class="alias" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="1407" start="52" end="53" text="zem trachen" element="mod" class="name" subclass=""/>
+          </span>
+        </span>
+        <span id="1414" start="60" end="67" text="Clewin Gottschis&#10;hus den man sprichet zem Widershom" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1421" start="60" end="61" text="Clewin Gottschis" element="attr" class="owner" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="1428" start="60" end="61" text="Clewin Gottschis" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+              <span id="1428_head" start="60" end="61" element="head" class="nam" text="Clewin Gottschis" subclass=""/>
+            </span>
+          </span>
+          <span id="1435" start="62" end="62" text="hus" element="head" class="type" subclass=""/>
+          <span id="1442" start="63" end="67" text="den man sprichet zem Widershom" element="attr" class="alias" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+            <span id="1449" start="66" end="67" text="zem Widershom" element="mod" class="name" subclass=""/>
+          </span>
+        </span>
+      </span>
+      <span id="1456" start="72" end="79" text="zinset voneig . der Thumprobstye 11 becher Bonen" element="attr" class="dues" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+        <span id="1463" start="72" end="72" text="zinset" element="trigger" class="" tense="pres" polarity="pos" modality="ass" subclass=""/>
+        <span id="1470" start="73" end="74" text="voneig ." element="mod" class="cause" subclass=""/>
+        <span id="1477" start="75" end="76" text="der Thumprobstye" element="reference" class="org" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
+          <span id="1484" start="76" end="76" text="Thumprobstye" element="head" class="type" subclass=""/>
+        </span>
+        <span id="1491" start="77" end="79" text="11 becher Bonen" element="value" class="money" subclass=""/>
+      </span>
+    </span>
+    <span id="1169" start="82" end="83" text="163 fl" role="price" element="value" class="money" subclass=""/>
+  </spans>
+  <relations>
+    <relation id="1211" from="1204" to="1134" class="coref" tense="pres" polarity="pos" modality="ass"/>
+    <relation id="1253" from="1239" to="1176" class="coref" tense="pres" polarity="pos" modality="ass"/>
+  </relations>
+  <eventGroups>
+    <eventGroup event_id="0" class="family" polarity="pos" tense="pres" modality="ass" start="7" end="8" ref="1190" type="state">
+      <trigger start="8" end="8" text="vatter" ref="1197"/>
+      <event event_id="0.0">
+        <role role="family-a" ref="1176" text="Frantzen Eltingers&#10;zins vatter"/>
+        <role role="family-b" ref="1204" text="zins"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="1" class="family" polarity="pos" tense="pres" modality="ass" start="12" end="14" ref="1225" type="state">
+      <trigger start="14" end="14" text="Ewirtin" ref="1232"/>
+      <event event_id="1.0">
+        <role role="family-a" ref="1141" text="Angnes desselben Frantzen&#10;Ewirtin"/>
+        <role role="family-b" ref="1239" text="desselben Frantzen"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="2" class="part_whole" polarity="pos" tense="pres" modality="ass" start="27" end="30" ref="1288" type="state">
+      <event event_id="2.0">
+        <role role="whole" ref="1162" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen"/>
+        <role role="part" ref="1295" text="dem garten"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="3" class="topological" polarity="pos" tense="pres" modality="ass" start="32" end="40" ref="1309" type="state">
+      <event event_id="3.0">
+        <role role="location-a" ref="1162" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen"/>
+        <role role="location-b" ref="1316" text="der vorstatt ze Eschemerthor"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="4" class="topological" polarity="pos" tense="pres" modality="ass" start="39" end="40" ref="1330" type="state">
+      <event event_id="4.0">
+        <role role="location-a" ref="1316" text="der vorstatt ze Eschemerthor"/>
+        <role role="location-b" ref="1337" text="Eschemerthor"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="5" class="name_variant" polarity="pos" tense="pres" modality="ass" start="43" end="45" ref="1386" type="state">
+      <event event_id="5.0">
+        <role role="entity" ref="1162" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen"/>
+        <role role="name" ref="1393" text="zem Haffen"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="6" class="topological" polarity="pos" tense="pres" modality="ass" start="47" end="70" ref="1344" type="state">
+      <event event_id="6.0">
+        <role role="location-a" ref="1162" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen"/>
+        <role role="location-b" ref="1351" text="der Brennerin hus genant zem trachen"/>
+        <role role="location-b" ref="1414" text="Clewin Gottschis&#10;hus den man sprichet zem Widershom"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="7" class="ownership" polarity="pos" tense="pres" modality="ass" start="48" end="49" ref="1358" type="state">
+      <event event_id="7.0">
+        <role role="property" ref="1351" text="der Brennerin hus genant zem trachen"/>
+        <role role="owner" ref="1365" text="der Brennerin"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="8" class="name_variant" polarity="pos" tense="pres" modality="ass" start="51" end="53" ref="1400" type="state">
+      <event event_id="8.0">
+        <role role="entity" ref="1351" text="der Brennerin hus genant zem trachen"/>
+        <role role="name" ref="1407" text="zem trachen"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="9" class="ownership" polarity="pos" tense="pres" modality="ass" start="60" end="61" ref="1421" type="state">
+      <event event_id="9.0">
+        <role role="property" ref="1414" text="Clewin Gottschis&#10;hus den man sprichet zem Widershom"/>
+        <role role="owner" ref="1428" text="Clewin Gottschis"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="10" class="name_variant" polarity="pos" tense="pres" modality="ass" start="63" end="67" ref="1442" type="state">
+      <event event_id="10.0">
+        <role role="entity" ref="1414" text="Clewin Gottschis&#10;hus den man sprichet zem Widershom"/>
+        <role role="name" ref="1449" text="zem Widershom"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="11" class="due-obligation" polarity="pos" tense="pres" modality="ass" start="72" end="79" ref="1456" type="state">
+      <trigger start="72" end="72" text="zinset" ref="1463"/>
+      <event event_id="11.0">
+        <role role="property" ref="1162" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen"/>
+        <role role="cause" ref="1470" text="voneig ."/>
+        <role role="beneficiary" ref="1477" text="der Thumprobstye"/>
+        <role role="interest" ref="1491" text="11 becher Bonen"/>
+      </event>
+    </eventGroup>
+    <eventGroup event_id="12" class="property" polarity="pos" tense="pres" modality="ass" start="0" end="83" ref="" type="event">
+      <trigger start="16" end="16" text="verkauft" ref="1155"/>
+      <event event_id="12.0">
+        <role role="seller" ref="1134" text="Hans von Pltingen"/>
+        <role role="consenter" ref="1176" text="Frantzen Eltingers&#10;zins vatter"/>
+        <role role="seller" ref="1141" text="Angnes desselben Frantzen&#10;Ewirtin"/>
+        <role role="buyer" ref="1148" text="Peter Schützen&#10;den Rebman"/>
+        <role role="property" ref="1162" text="daz Hus &amp; Hofstatt mit dem garten derhinder , als es gelegen ist in der vorstatt ze Eschemerthor&#10;, ư genant zem Haffen , nebent der Brennerin hus genant zem trachen ze einer siten , u . Clewin Gottschis&#10;hus den man sprichet zem Widershom zer andern siten , zinset voneig . der Thumprobstye 11 becher Bonen"/>
+        <role role="price" ref="1169" text="163 fl"/>
+      </event>
+    </eventGroup>
+  </eventGroups>
+</doc>
