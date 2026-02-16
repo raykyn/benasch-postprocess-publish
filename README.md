@@ -28,3 +28,8 @@ pip install -r requirements.txt
 **Run**
 
 Please see the Guide for more info on how to set up and run the scripts.
+
+
+## Acknowledgments
+These scripts were developed as part of the project [Economies of Space](https://dg.philhist.unibas.ch/de/bereiche/mittelalter/forschung/oekonomien-des-raums/) at the University of Basel within the Department of History. 
+The project was financed by the Swiss National Science Foundation.
