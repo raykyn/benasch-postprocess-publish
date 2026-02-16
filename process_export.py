@@ -16,9 +16,6 @@ UNZIPPED = os.path.join(DATA, "unzipped")
 OUTPUT = os.path.join(DATA, "processed")
 postprocess.OUTFOLDER = OUTPUT
 
-# Which annotators to process, leave empty for all
-ANNOTATORS = []
-
 
 if __name__ == "__main__":
     for infile in sorted(glob.glob(os.path.join(UNZIPPED, "*"))):
