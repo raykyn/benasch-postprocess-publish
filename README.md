@@ -21,7 +21,9 @@ cd benasch-postprocess-publish
 
 **Install dependencies**
 
+```bash
 pip install -r requirements.txt
+```
 
 **Run**
 
