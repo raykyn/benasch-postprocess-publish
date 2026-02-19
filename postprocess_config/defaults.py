@@ -37,7 +37,9 @@ CONFIG = {
         "per": "nam",
         "loc": "type",
         "org": "type",
-        "gpe": "nam",
+        "gpe-org": "nam",
+        "gpe-loc": "nam",
+        "gpe-gpe": "nam",
         "fac": "type",
         "default": "unk"  # fallback
     }

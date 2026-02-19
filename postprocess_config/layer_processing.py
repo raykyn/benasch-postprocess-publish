@@ -100,6 +100,9 @@ CONFIG = {
                     "add_optional_feature_by_index": {
                         1: "class",
                     },
+                    "add_feature_to_head": {
+                        "class": "pro"
+                    },
                     "add_remaining_fields_by_schema_info": 2,
                     "requires_head": True
                 },

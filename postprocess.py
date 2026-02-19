@@ -251,6 +251,10 @@ def process_spans(out_root):
                     except TypeError:
                         print(f"WARNING: Could not assign head type for {child.get('id')}! Check if the head defaults are properly defined for class {parent.get('class')} and if the class of the parent {parent.get('id')} is correctly assigned.")
                         child.set(new_feature, CONFIG["head_defaults"]["default"])
+            if "add_feature_to_head" in parent_instruction:
+                actions = parent_instruction["add_feature_to_head"]
+                for new_feature, new_value in actions.items():
+                    child.set(new_feature, new_value)
         else:
             return
         
@@ -314,9 +318,11 @@ def process_spans(out_root):
                                 if span.get(copy_value) is not None:
                                     new_span.set(copy_feature, span.get(copy_value))
                         elif instr_name == "add_features_to_head":
-                            pass  # probably easier to do this as we process the head
+                            pass  # easier to do this as we process the head
                         elif instr_name == "copy_by_index_to_head":
-                            pass  # probably easier to do this as we process the head
+                            pass  # easier to do this as we process the head
+                        elif instr_name == "add_feature_to_head":
+                            pass  # easier to do this as we process the head
                         elif instr_name == "add_feature_by_index":
                             for idx, new_feature in instr_value.items():
                                 if idx < len(feature_value):
@@ -663,15 +669,17 @@ def write_events(out_root):
     running_ids = 0
     eventspans = out_root.xpath("./spans//span[@element='interaction']")
     for event in eventspans:
-        event_id = next(role for role in get_roles(event.get("role")) if role["role"] == "evt")["id"]  # TODO: as we're not using the role field anymore we can simplify this
+        event_id = next(role for role in get_roles(event.get("role"), is_evt=True) if role["role"] == "evt")["id"]  # TODO: as we're not using the role field anymore we can simplify this
         # find a trigger if present
         triggers = event.findall("./span[@element='trigger']")
         event_triggers = []
         for trigger in triggers:
             # only add this trigger if it has no or same event id
-            trigger_id = next(role for role in get_roles(trigger.get("role")) if role["role"] == "evt")["id"]
+            trigger_id = next(role for role in get_roles(trigger.get("role"), is_evt=True) if role["role"] == "evt")["id"]
             if trigger_id == event_id:
                 event_triggers.append(trigger)
+                # add event type to trigger from eventspan
+                trigger.set("class", event.get("class"))
                 previously_used_triggers.append(trigger)
         # collect participants
         candidates = []
@@ -850,6 +858,7 @@ def write_events(out_root):
             trigger_id = next(role for role in get_roles(trigger.get("role"), is_evt=True) if role["role"] == "evt")["id"]
             if trigger_id == [""]:
                 event_triggers.append(trigger)
+                trigger.set("class", event.get("class"))
                 previously_used_triggers.append(trigger)
         if triggers != event_triggers:
             # if some triggers were not added, it means they had an event id, and we better let the triggers handle the 

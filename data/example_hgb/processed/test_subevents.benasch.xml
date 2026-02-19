@@ -193,7 +193,7 @@
           <span id="2391" start="3" end="3" text="Helen" element="head" class="nam" subclass=""/>
           <span id="2398" start="4" end="5" text="sein Swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
             <span id="2412" start="4" end="4" text="sein" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-              <span id="2412_head" start="4" end="4" element="head" text="sein"/>
+              <span id="2412_head" start="4" end="4" element="head" class="pro" text="sein" subclass=""/>
             </span>
             <span id="2405" start="5" end="5" text="Swester" element="head" class="fam" subclass=""/>
           </span>
@@ -211,7 +211,7 @@
         <span id="2468" start="17" end="19" text="mit seiner zugehorng" element="attr" class="comp" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
           <span id="2475" start="18" end="19" text="seiner zugehorng" element="reference" class="fac" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
             <span id="2489" start="18" end="18" text="seiner" element="reference" class="unk" numerus="unk" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-              <span id="2489_head" start="18" end="18" element="head" text="seiner"/>
+              <span id="2489_head" start="18" end="18" element="head" class="pro" text="seiner" subclass=""/>
             </span>
             <span id="2482" start="19" end="19" text="zugehorng" element="head" class="type" subclass=""/>
           </span>
@@ -255,7 +255,7 @@
           <span id="2699" start="58" end="72" text="Irr Muter Annen weilent Steffans Meichsner hausfraun die darnach Hannsen herczogen auch hat elichen gehabt" role="issuer.0" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
             <span id="2706" start="58" end="59" text="Irr Muter" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
               <span id="2720" start="58" end="58" text="Irr" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-                <span id="2720_head" start="58" end="58" element="head" text="Irr"/>
+                <span id="2720_head" start="58" end="58" element="head" class="pro" text="Irr" subclass=""/>
               </span>
               <span id="2713" start="59" end="59" text="Muter" element="head" class="fam" subclass=""/>
             </span>
@@ -299,7 +299,7 @@
           </span>
           <span id="2881" start="98" end="99" text="mit erbschafft" role="inheritance.1" element="mod" class="inheritance" subclass=""/>
           <span id="2657" start="101" end="101" text="sew" role="recipient" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-            <span id="2657_head" start="101" end="101" element="head" text="sew"/>
+            <span id="2657_head" start="101" end="101" element="head" class="pro" text="sew" subclass=""/>
           </span>
           <span id="2650" start="102" end="102" text="komen" element="trigger" class="" tense="pres" polarity="pos" modality="ass" subclass=""/>
         </span>
@@ -325,7 +325,7 @@
       <span id="2972" start="124" end="124" text="KirchhaimInn" element="head" class="nam" subclass=""/>
       <span id="2979" start="125" end="126" text="Irr Swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
         <span id="2993" start="125" end="125" text="Irr" element="reference" class="per" numerus="grp" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-          <span id="2993_head" start="125" end="125" element="head" text="Irr"/>
+          <span id="2993_head" start="125" end="125" element="head" class="pro" text="Irr" subclass=""/>
         </span>
         <span id="2986" start="126" end="126" text="Swester" element="head" class="fam" subclass=""/>
       </span>
@@ -337,13 +337,13 @@
       <span id="3028_head" start="166" end="167" element="head" class="nam" text="Ureich Meichsner" subclass=""/>
     </span>
     <span id="3035" start="169" end="169" text="sein" element="reference" class="unk" numerus="unk" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-      <span id="3035_head" start="169" end="169" element="head" text="sein"/>
+      <span id="3035_head" start="169" end="169" element="head" class="pro" text="sein" subclass=""/>
     </span>
     <span id="3056" start="173" end="175" text="Helen seiner swester" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
       <span id="3063" start="173" end="173" text="Helen" element="head" class="nam" subclass=""/>
       <span id="3070" start="174" end="175" text="seiner swester" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
         <span id="3084" start="174" end="174" text="seiner" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-          <span id="3084_head" start="174" end="174" element="head" text="seiner"/>
+          <span id="3084_head" start="174" end="174" element="head" class="pro" text="seiner" subclass=""/>
         </span>
         <span id="3077" start="175" end="175" text="swester" element="head" class="fam" subclass=""/>
       </span>

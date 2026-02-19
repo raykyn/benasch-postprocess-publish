@@ -95,7 +95,7 @@
       <span id="1183" start="5" end="6" text="Frantzen Eltingers" element="head" class="name" subclass=""/>
       <span id="1190" start="7" end="8" text="zins vatter" element="appo" class="fam" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="father">
         <span id="1204" start="7" end="7" text="zins" element="reference" class="per" numerus="sgl" specificity="spc" tense="pres" polarity="pos" modality="ass" subclass="">
-          <span id="1204_head" start="7" end="7" element="head" text="zins"/>
+          <span id="1204_head" start="7" end="7" element="head" class="pro" text="zins" subclass=""/>
         </span>
         <span id="1197" start="8" end="8" text="vatter" element="head" class="fam" subclass="father"/>
       </span>

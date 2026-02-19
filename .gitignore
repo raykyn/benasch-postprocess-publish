@@ -1,2 +1,6 @@
 /debug.log
-/__pycache__
+**/__pycache__
+# Ignore everything inside the data folder
+/data/*
+# But do NOT ignore the example_hgb folder
+!/data/example_hgb/

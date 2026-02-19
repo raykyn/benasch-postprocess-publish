@@ -3,7 +3,7 @@ CONFIG = {
     "conversions": {
         "class": {
             "loc_fac": "fac",
-            "nam": "name"
+            "name": "nam"
         },
         "role_names": {
         }
